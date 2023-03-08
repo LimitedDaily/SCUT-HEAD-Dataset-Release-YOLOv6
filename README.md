@@ -1,5 +1,7 @@
 # News
+**2023-3-xx** bounding box annotation is modified by LimitedDaily for YOLOv6(https://github.com/meituan/YOLOv6) training.  
 **2018-1-16** SCUT-HEAD v1.0 is released with images and head bounding box annotations.
+
 # Description
 SCUT-HEAD is a large-scale head detection dataset, including 4405 images labeld with 111251 heads. The dataset consists of two parts. PartA includes 2000 images sampled from monitor videos of classrooms in an university with 67321 heads annotated. PartB includes 2405 images crawled from Internet with 43930 heads annotated. We have labelled every visable heads with xmin, ymin, xmax and ymax coordinates and ensured that annotations cover the entire head including the blocked parts but without extra background. Both PartA and PartB are divided into training and testing parts. Our dataset follows the standard of Pascal VOC. 
 
@@ -35,10 +37,10 @@ Representative image and annotations and the histogram of people counts are show
 
 # Download
 ## PartA of SCUT-HEAD 
-(To be distributed soon.)
+(To be release soon.)
 
 ## PartB of SCUT-HEAD 
-(To be distributed soon.)
+(To be release soon.)
 
 # Related Datasets
 [**HollywoodHead dataset**](http://www.di.ens.fr/willow/research/headdetection/)
