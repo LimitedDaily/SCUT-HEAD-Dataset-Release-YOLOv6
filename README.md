@@ -34,13 +34,11 @@ Representative image and annotations and the histogram of people counts are show
 <!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_B.jpg) -->
 
 # Download
-PartA of SCUT-HEAD 
-[[Google Drive]] (To be distributed soon.)
-[[Baidu Drive]] (To be distributed soon.)
+## PartA of SCUT-HEAD 
+(To be distributed soon.)
 
-PartB of SCUT-HEAD 
-[[Google Drive]] (To be distributed soon.)
-[[Baidu Drive]] (To be distributed soon.)
+## PartB of SCUT-HEAD 
+(To be distributed soon.)
 
 # Related Datasets
 [**HollywoodHead dataset**](http://www.di.ens.fr/willow/research/headdetection/)
