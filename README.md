@@ -36,11 +36,20 @@ Representative image and annotations and the histogram of people counts are show
 <!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_B.jpg) -->
 
 # Download
-## PartA of SCUT-HEAD 
-(To be release soon.)
+PartA of SCUT-HEAD 
+[[Google Drive]](https://drive.google.com/open?id=1yaOF9os5wPVNNG4GVzNyULLVe74vdrBE)
+[[Baidu Drive]](https://pan.baidu.com/s/1EQtyLwDfEULsdSy-UZhzWQ)
 
-## PartB of SCUT-HEAD 
-(To be release soon.)
+PartB of SCUT-HEAD 
+[[Google Drive]](https://drive.google.com/open?id=1LZ_KlTPStDEcqycfqUkDkqQ-aNMMC3cl)
+[[Baidu Drive]](https://pan.baidu.com/s/1CASxJBkjKoW3_yO8OVKBvQ)
+  
+# Usage
+1) Download SCUT-HEAD dataset and unzip to data folder.  
+2) Run convert.py
+```
+python convert.py
+```
 
 # Related Datasets
 [**HollywoodHead dataset**](http://www.di.ens.fr/willow/research/headdetection/)
