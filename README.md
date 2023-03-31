@@ -50,6 +50,9 @@ PartB of SCUT-HEAD
 ```
 python convert.py
 ```
+3) Convert result saved in ```custom_dataset``` folder.
+4) Copy to YOLOv6 ```custom_dataset``` folder.
+5) Traning YOLOv6 with custom dataset : https://github.com/meituan/YOLOv6/blob/main/docs/Train_custom_data.md
 
 # Related Datasets
 [**HollywoodHead dataset**](http://www.di.ens.fr/willow/research/headdetection/)
