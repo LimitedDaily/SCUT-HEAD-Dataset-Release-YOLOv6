@@ -17,12 +17,9 @@ def testConvertedData(fname, img_dst, label_dst):
 
     img = cv2.imread(img_fname)
     with open(label_fname, 'r') as f:
-        # 파일의 각 줄을 순회합니다.
         for line in f:
-            # 줄의 공백 문자를 기준으로 분리합니다.
             items = line.split()
 
-            # 분리된 값을 float 형으로 변환합니다.
             class_id = float(items[0])
             x_center = float(items[1]) * img_width
             y_center = float(items[2]) * img_height
@@ -73,8 +70,7 @@ def convert(label_dst_path, image_dst_path, fnames_list):
                 xmax = int(obj.find('bndbox/xmax').text)
                 ymax = int(obj.find('bndbox/ymax').text)
 
-                # converting
-                class_id = 0  # head class ID
+                class_id = 0
                 center_x = (xmin + ((xmax - xmin) / 2)) / width
                 center_y = (ymin + ((ymax - ymin) / 2)) / height
                 bbox_width = (xmax - xmin) / width
