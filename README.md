@@ -1,5 +1,5 @@
 # News
-**2023-3-xx** bounding box annotation is modified by LimitedDaily for YOLOv6(https://github.com/meituan/YOLOv6) training.  
+**2023-3-31** bounding box annotation is modified by LimitedDaily for YOLOv6(https://github.com/meituan/YOLOv6) training.  
 **2018-1-16** SCUT-HEAD v1.0 is released with images and head bounding box annotations.
 
 # Description
